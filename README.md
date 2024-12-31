@@ -1,4 +1,4 @@
-#RecipeAPI
+<h1>RecipeAPI</h1>
 Features: CRUD<br>
 Used Techs: Django, PYTHON<br>
 How to setup:
